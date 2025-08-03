@@ -25,35 +25,35 @@
 
 /datum/supply_pack/rogue/blackmarket_potions/strpot
 	name = "Draught of Strength"
-	cost = 75
+	cost = 110
 	contains = list(/obj/item/reagent_containers/glass/bottle/alchemical/strpot)
 
 /datum/supply_pack/rogue/blackmarket_potions/perpot
 	name = "Draught of Perception"
-	cost = 50
+	cost = 80
 	contains = list(/obj/item/reagent_containers/glass/bottle/alchemical/perpot)
 
 /datum/supply_pack/rogue/blackmarket_potions/endpot
 	name = "Draught of Endurance"
-	cost = 50
+	cost = 80
 	contains = list(/obj/item/reagent_containers/glass/bottle/alchemical/endpot)
 
 /datum/supply_pack/rogue/blackmarket_potions/conpot
 	name = "Draught of Constitution"
-	cost = 50
+	cost = 80
 	contains = list(/obj/item/reagent_containers/glass/bottle/alchemical/conpot)
 					
 /datum/supply_pack/rogue/blackmarket_potions/intpot
 	name = "Draught of Intelligence"
-	cost = 50
+	cost = 80
 	contains = list(/obj/item/reagent_containers/glass/bottle/alchemical/intpot)
 
 /datum/supply_pack/rogue/blackmarket_potions/spdpot
 	name = "Draught of Speed"
-	cost = 75
+	cost = 110
 	contains = list(/obj/item/reagent_containers/glass/bottle/alchemical/spdpot)
 
 /datum/supply_pack/rogue/blackmarket_potions/lucpot
 	name = "Draught of Luck"
-	cost = 25
+	cost = 80
 	contains = list(/obj/item/reagent_containers/glass/bottle/alchemical/lucpot)

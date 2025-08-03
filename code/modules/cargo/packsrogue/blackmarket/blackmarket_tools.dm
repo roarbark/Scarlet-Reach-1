@@ -46,7 +46,7 @@
 
 /datum/supply_pack/rogue/blackmarket_tools/lamptern
 	name = "Lamptern"
-	cost = 15
+	cost = 20
 	contains = list(/obj/item/flashlight/flare/torch/lantern)
 
 /datum/supply_pack/rogue/blackmarket_tools/backpack
