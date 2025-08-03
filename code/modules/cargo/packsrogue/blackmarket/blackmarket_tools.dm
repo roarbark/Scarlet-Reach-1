@@ -44,11 +44,6 @@
 	cost = 15
 	contains = list(/obj/item/reagent_containers/glass/bottle/waterskin)
 
-/datum/supply_pack/rogue/blackmarket_tools/lamptern
-	name = "Lamptern"
-	cost = 20
-	contains = list(/obj/item/flashlight/flare/torch/lantern)
-
 /datum/supply_pack/rogue/blackmarket_tools/backpack
 	name = "Backpack"
 	cost = 30
