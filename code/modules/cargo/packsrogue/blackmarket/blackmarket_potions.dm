@@ -10,12 +10,12 @@
 
 /datum/supply_pack/rogue/blackmarket_potions/manapot
 	name = "Blue Elixir"
-	cost = 15
+	cost = 25
 	contains = list(/obj/item/reagent_containers/glass/bottle/rogue/manapot)
 
 /datum/supply_pack/rogue/blackmarket_potions/stamina
 	name = "Green Elixir"
-	cost = 50
+	cost = 80
 	contains = list(/obj/item/reagent_containers/glass/bottle/rogue/stampot)
 
 /datum/supply_pack/rogue/blackmarket_potions/antidote
