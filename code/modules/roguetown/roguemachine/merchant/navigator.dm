@@ -11,7 +11,7 @@
 	w_class = WEIGHT_CLASS_GIGANTIC
 	var/blackmarket = FALSE // this is used for the navigator at the black market ruin, which rips you the fuck off
 
-	/obj/item/roguemachine/navigator/blackmarket
+/obj/item/roguemachine/navigator/blackmarket
 	name = "suspicious navigator"
 	desc = "A machine that has seen more injustice than most."
 	blackmarket = TRUE
