@@ -8107,9 +8107,6 @@
 /obj/structure/fluff/railing/border,
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/beach)
-"cHw" = (
-/turf/open/floor/carpet/stellar,
-/area/rogue/indoors)
 "cHB" = (
 /obj/structure/fluff/walldeco/rpainting/forest{
 	pixel_y = 32
@@ -9294,7 +9291,7 @@
 	pixel_x = 6;
 	pixel_y = 2
 	},
-/turf/open/floor/carpet/stellar,
+/turf/open/floor/carpet/red,
 /area/rogue/indoors)
 "cZj" = (
 /obj/effect/decal/cleanable/blood/old,
@@ -12517,7 +12514,7 @@
 	pixel_x = -3;
 	pixel_y = 9
 	},
-/turf/open/floor/carpet/stellar,
+/turf/open/floor/carpet/red,
 /area/rogue/indoors)
 "efz" = (
 /obj/structure/fluff/railing/border{
@@ -30195,7 +30192,7 @@
 	name = "makeshift bed"
 	},
 /obj/machinery/light/rogue/wallfire/candle/off/l,
-/turf/open/floor/carpet/stellar,
+/turf/open/floor/carpet/red,
 /area/rogue/indoors)
 "jJy" = (
 /obj/structure/closet/crate/chest/wicker,
@@ -33383,7 +33380,7 @@
 	pixel_x = 7;
 	pixel_y = 8
 	},
-/turf/open/floor/carpet/stellar,
+/turf/open/floor/carpet/red,
 /area/rogue/indoors)
 "kMF" = (
 /obj/structure/ladder,
@@ -45936,7 +45933,7 @@
 /area/rogue/indoors/cave)
 "oPk" = (
 /obj/machinery/light/rogue/wallfire/candle/off/r,
-/turf/open/floor/carpet/stellar,
+/turf/open/floor/carpet/red,
 /area/rogue/indoors)
 "oPm" = (
 /obj/machinery/light/rogue/firebowl/stump,
@@ -66835,7 +66832,7 @@
 	pixel_x = -7;
 	pixel_y = 9
 	},
-/turf/open/floor/carpet/stellar,
+/turf/open/floor/carpet/red,
 /area/rogue/indoors)
 "vyH" = (
 /turf/closed/wall/mineral/rogue/wooddark,
@@ -68491,7 +68488,7 @@
 	pixel_x = 10;
 	pixel_y = -1
 	},
-/turf/open/floor/carpet/stellar,
+/turf/open/floor/carpet/red,
 /area/rogue/indoors)
 "vZB" = (
 /obj/structure/mineral_door/wood{
@@ -430226,7 +430223,7 @@ alD
 jLU
 oPk
 kMy
-cHw
+rca
 gRB
 jLU
 bhp
